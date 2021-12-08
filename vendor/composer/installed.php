@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => NULL,
+        'name' => '__root__',
+        'dev' => true,
+    ),
+    'versions' => array(
+        '10quality/php-data-model' => array(
+            'pretty_version' => 'v1.0.2',
+            'version' => '1.0.2.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../10quality/php-data-model',
+            'aliases' => array(),
+            'reference' => '45083e64b7757edf0594a94ad892d5164b773464',
+            'dev_requirement' => false,
+        ),
+        '10quality/wp-query-builder' => array(
+            'pretty_version' => 'v1.0.12',
+            'version' => '1.0.12.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../10quality/wp-query-builder',
+            'aliases' => array(),
+            'reference' => '9b814bbf478d800269feb982e4063cd6a24ebef5',
+            'dev_requirement' => false,
+        ),
+        '__root__' => array(
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => NULL,
+            'dev_requirement' => false,
+        ),
+    ),
+);

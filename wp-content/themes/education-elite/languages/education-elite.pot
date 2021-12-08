@@ -1,0 +1,217 @@
+# <!=Copyright (C) 2021 Rara Theme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Education Elite 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/education-elite\n"
+"POT-Creation-Date: 2021-11-02 10:33:15+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:86
+msgid "Demo and Documentation"
+msgstr ""
+
+#: functions.php:97
+msgid "Theme Documentation"
+msgstr ""
+
+#: functions.php:97 functions.php:99 functions.php:101 functions.php:103
+#: functions.php:105
+msgid "Click here"
+msgstr ""
+
+#: functions.php:99
+msgid "Theme Demo"
+msgstr ""
+
+#: functions.php:101
+msgid "Theme info"
+msgstr ""
+
+#: functions.php:103
+msgid "Support Ticket"
+msgstr ""
+
+#: functions.php:105
+msgid "More WordPress Themes"
+msgstr ""
+
+#: functions.php:108
+msgid "About Education Elite"
+msgstr ""
+
+#: functions.php:122 functions.php:332
+msgid "Apply Now"
+msgstr ""
+
+#: functions.php:130
+msgid "CTA Label"
+msgstr ""
+
+#: functions.php:148
+msgid "CTA Link"
+msgstr ""
+
+#: functions.php:167
+msgid "Enable Search Form"
+msgstr ""
+
+#: functions.php:168
+msgid "Enable to show search form in header."
+msgstr ""
+
+#: functions.php:185
+msgid "Enable Social Links"
+msgstr ""
+
+#: functions.php:195 sections/section-slider.php:8
+msgid "Enquiry"
+msgstr ""
+
+#: functions.php:203
+msgid "Button Two Texts"
+msgstr ""
+
+#: functions.php:221
+msgid "Button Two Link"
+msgstr ""
+
+#: functions.php:231 sections/section-courses.php:11
+#: sections/section-courses.php:55
+msgid "Learn More"
+msgstr ""
+
+#: functions.php:239 functions.php:278 functions.php:314
+msgid "Button Label"
+msgstr ""
+
+#: functions.php:241
+msgid "CTA button label to view courses listing page"
+msgstr ""
+
+#: functions.php:258 functions.php:296
+msgid "Button Link"
+msgstr ""
+
+#: functions.php:260
+msgid "CTA button link to view courses listing page"
+msgstr ""
+
+#: functions.php:269 sections/section-testimonials.php:9
+msgid "Read All Testimonials"
+msgstr ""
+
+#: functions.php:305 sections/section-blog.php:14
+msgid "View All Blog"
+msgstr ""
+
+#: functions.php:315
+msgid "CTA button label to view blog listing page"
+msgstr ""
+
+#: functions.php:372
+msgid "Phone Number"
+msgstr ""
+
+#: functions.php:379
+msgid "E-Mail"
+msgstr ""
+
+#: functions.php:438
+msgid "Copyright &copy;"
+msgstr ""
+
+#: functions.php:438
+msgid "Y"
+msgstr ""
+
+#: functions.php:442
+msgid "Education Elite | Developed By"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#: functions.php:444
+msgid "Powered by %s."
+msgstr ""
+
+#: functions.php:444
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: sections/section-blog.php:13 sections/section-slider.php:7
+msgid "Read More"
+msgstr ""
+
+#: sections/section-blog.php:56 sections/section-blog.php:108
+msgid "j M, Y"
+msgstr ""
+
+#: sections/section-blog.php:57
+msgid "g:i A"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Education Elite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rarathemes.com/wordpress-themes/education-elite/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Education Elite is a clean, beautiful and professional looking WordPress "
+"theme. Education Elite is designed to suit special requirements of "
+"educational institutions like college, school, university, LMS, Training "
+"Center, Academy, Primary School, High school and Kindergarten. The theme is "
+"highly customizable with various features and personalization options. Like "
+"the parent theme, Education Elite includes features like a custom menu, "
+"attractive banner, stats counter, courses section, testimonial section, "
+"banner with Call-to-Action(CTA) button, and social media. The theme is SEO "
+"friendly and optimized to load fast, which make it easy for your site to "
+"rank on Google and other search engines. Designed with visitor engagement "
+"in mind, Education Elite is translation-ready, WooCommerce compatible, RTL "
+"script ready and much more. Check the demo at "
+"https://rarathemes.com/previews/?theme=education-elite, documentation at "
+"https://docs.rarathemes.com/docs/education-elite/, and get support at "
+"https://rarathemes.com/support-ticket/."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rarathemes.com/"
+msgstr ""
+
+#: functions.php:46
+#. translators: If there are characters in your language that are not supported
+#. by Nunito Sans, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:52
+#. translators: If there are characters in your language that are not supported
+#. by Oxygen, translate this to 'off'. Do not translate into your own language.
+msgctxt "Oxygen font: on or off"
+msgid "on"
+msgstr ""
